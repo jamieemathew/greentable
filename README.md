@@ -8,8 +8,8 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Jamie](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Gayathri](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Jamie](https://github.com/jamieemathew)
+2. [Gayathri](https://github.com/Gxyathri)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
