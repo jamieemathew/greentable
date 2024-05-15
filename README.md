@@ -5,8 +5,8 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Green Table
+Green Table is a web app that allows restaurants to share if they have leftover food available and people who are in need can come and collect it. The restaurants can give it in a discounted price or for free, it's totally upto them. Lots of food are wasted everyday by restaurants and will be of great use if they are given to the needy and homeless people.
 ## Team members
 1. [Jamie](https://github.com/jamieemathew)
 2. [Gayathri](https://github.com/Gxyathri)
