@@ -17,6 +17,12 @@ Green Table is a web app that allows restaurants to share if they have leftover 
 2. Embed video of project demo
 ## Libraries used
 Library Name - Version
+Streamlit    - 1.32.2
+Pandas       - 2.2.1
+SQLAlchemy   - 2.0.30
+Pillow(PIL)  - 10.1.0
+Passlib      - 1.7.4
+SQLite
 ## How to configure
 Instructions for setting up project
 ## How to Run
