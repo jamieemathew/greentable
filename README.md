@@ -25,7 +25,7 @@ Library Name - Version
 6. SQLite
 ## How to configure
 1. Clone this repository
-   git clone https://github.com/jamieemathew/greentable
+   gh repo clone jamieemathew/greentable
 2. Install the requirements
 3. Run the file
    streamlit run app.py   
