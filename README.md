@@ -13,8 +13,14 @@ Green Table is a web app that allows restaurants to share if they have leftover 
 ## Link to product walkthrough
 [link to video](https://drive.google.com/file/d/1H5CUWn1EXrOjwS2M8_GammFcdkyKNmm7/view?usp=drive_link)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. There are 4 pages in the web app: home, available food, restaurant login and food submission, restaurant registration
+2. New restaurants can register at the restaurant registration page and set their passwords
+3. Then they can login to their account from the login page
+4. After logging in, they can fill in the food submission form where they will provide details like restaurant name, food description, quantity available, pickup time, city, address and contact information
+5. The submission can be seen on the table in 'available food' page. Users can refer this table and pickup the food that they want
+6. After the customer has picked up the food, restaurants can delete that food entry/quantity of food that has been bought from the available food table
+7. The restaurants can then logout from the application
+
 ## Libraries used
 Library Name - Version
 1. Streamlit    - 1.32.2
@@ -26,7 +32,7 @@ Library Name - Version
 ## How to configure
 1. Clone this repository
    ```bash
-   https://github.com/jamieemathew/greentable.git
+   git clone https://github.com/jamieemathew/greentable.git
    ```
 2. Install the requirements
    ```bash
