@@ -30,8 +30,7 @@ Library Name - Version
    ```
 2. Install the requirements
    ```bash
-   pip install pipreqs
-   pipreqs --encoding =utf8
+   pip install -r requirements.txt
    ```
 ## How to Run
 ```bash
