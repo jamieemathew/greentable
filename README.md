@@ -32,7 +32,7 @@ Library Name - Version
 ## How to configure
 1. Clone this repository
    ```bash
-   git clone https://github.com/jamieemathew/greentable.git
+   git clone https://github.com/jamieemathew/greentable
    ```
 2. Install the requirements
    ```bash
