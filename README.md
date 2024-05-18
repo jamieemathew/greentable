@@ -25,9 +25,13 @@ Library Name - Version
 6. SQLite
 ## How to configure
 1. Clone this repository
+   ```bash
    gh repo clone jamieemathew/greentable
+   ```
 2. Install the requirements
 3. Run the file
-   streamlit run app.py   
+   ```bash
+   streamlit run app.py
+   ```
 ## How to Run
 Instructions for running
