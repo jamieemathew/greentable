@@ -7,6 +7,9 @@
 
 # Green Table
 Green Table is a web app that allows restaurants to share if they have leftover food available and people who are in need can come and collect it. The restaurants can give it in a discounted price or for free, it's totally upto them. Lots of food are wasted everyday by restaurants and will be of great use if they are given to the needy and homeless people. The app provides a platform where restaurants can log in and list their available leftover food, and users can view these listings.
+
+You can find the deployed app [here](https://greentable-jmgh1328.streamlit.app/)
+
 ## Team members
 1. [Jamie](https://github.com/jamieemathew)
 2. [Gayathri](https://github.com/Gxyathri)
