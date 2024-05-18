@@ -26,7 +26,7 @@ Library Name - Version
 ## How to configure
 1. Clone this repository
    ```bash
-   gh repo clone jamieemathew/greentable
+   https://github.com/jamieemathew/greentable.git
    ```
 2. Install the requirements
    ```bash
