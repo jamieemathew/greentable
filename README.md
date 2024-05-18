@@ -11,7 +11,7 @@ Green Table is a web app that allows restaurants to share if they have leftover 
 1. [Jamie](https://github.com/jamieemathew)
 2. [Gayathri](https://github.com/Gxyathri)
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/file/d/1H5CUWn1EXrOjwS2M8_GammFcdkyKNmm7/view?usp=drive_link)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
