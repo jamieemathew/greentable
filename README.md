@@ -24,6 +24,10 @@ Library Name - Version
 5. Passlib      - 1.7.4
 6. SQLite
 ## How to configure
-Instructions for setting up project
+1. Clone this repository
+   git clone https://github.com/jamieemathew/greentable
+2. Install the requirements
+3. Run the file
+   streamlit run app.py   
 ## How to Run
 Instructions for running
