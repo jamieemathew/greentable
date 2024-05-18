@@ -29,9 +29,11 @@ Library Name - Version
    gh repo clone jamieemathew/greentable
    ```
 2. Install the requirements
-3. Run the file
    ```bash
-   streamlit run app.py
+   pip install pipreqs
+   pipreqs --encoding =utf8
    ```
 ## How to Run
-Instructions for running
+```bash
+   streamlit run app.py
+   ```
