@@ -14,7 +14,7 @@ You can find the deployed app [here.](https://greentable-jmgh1328.streamlit.app/
 1. [Jamie](https://github.com/jamieemathew)
 2. [Gayathri](https://github.com/Gxyathri)
 ## Link to product walkthrough
-[link to video](https://drive.google.com/file/d/1H5CUWn1EXrOjwS2M8_GammFcdkyKNmm7/view?usp=drive_link)
+[link to video](https://drive.google.com/file/d/1kHWvzGsU89oJ83RmJctKVV3CCIXsh6Uc/view?usp=sharing)
 ## How it Works ?
 1. There are 4 pages in the web app: home, available food, restaurant login and food submission, restaurant registration
 2. New restaurants can register at the restaurant registration page and set their passwords
