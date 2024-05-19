@@ -8,7 +8,7 @@
 # Green Table
 Green Table is a web app that allows restaurants to share if they have leftover food available and people who are in need can come and collect it. The restaurants can give it at a discounted price or for free, it's totally upto them. Lots of food are wasted everyday by restaurants and will be of great use if they are given to the needy and homeless people. The app provides a platform where restaurants can log in and list their available leftover food, and users can view these listings.
 
-You can find the deployed app [here](https://greentable-jmgh1328.streamlit.app/)
+You can find the deployed app [here.](https://greentable-jmgh1328.streamlit.app/)
 
 ## Team members
 1. [Jamie](https://github.com/jamieemathew)
@@ -29,7 +29,7 @@ Library Name - Version
 1. Streamlit    - 1.32.2
 2. Pandas       - 2.2.1
 3. SQLAlchemy   - 2.0.30
-4. Pillow(PIL)  - 10.1.0
+4. Pillow(PIL)  - 10.3.0
 5. Passlib      - 1.7.4
 6. SQLite
 ## How to configure
